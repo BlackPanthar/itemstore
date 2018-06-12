@@ -1,6 +1,6 @@
-# ChainSkills Truffle Box
+# Truffle Box
 
-This Truffle Box has all you need to create a DApp by following the course delivered by [ChainSkills](https://www.udemy.com/getting-started-with-ethereum-solidity-development/).
+This Truffle Box has all you need to create a DApp by following the course delivered by
 
 This box has been based from [pet-shop-box](https://github.com/truffle-box/pet-shop-box).
 
@@ -13,7 +13,6 @@ This box has been based from [pet-shop-box](https://github.com/truffle-box/pet-s
 
 2. Download the box. This also takes care of installing the necessary dependencies.
     ```javascript
-    truffle unbox chainskills/chainskills-box
     ```
 
 3. Run the development console.

@@ -1,5 +1,5 @@
-var ChainList = artifacts.require("./ChainList.sol");
+var ItemStore = artifacts.require("./ItemStore.sol");
 
 module.exports = function(deployer) {
-  deployer.deploy(ChainList);
+  deployer.deploy(ItemStore);
 }
